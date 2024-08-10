@@ -1,10 +1,8 @@
 // ********************************
 // * Examples of bitwise manipulation in C taken from various locations
 // * 1. https://github.com/davepl/MACRO-11/blob/main/SIEVE.C
-// * 2. 
+// * 2. https://stackoverflow.com/questions/11815894/how-to-read-write-arbitrary-bits-in-c-c
 // ********************************
-
-// https://stackoverflow.com/questions/11815894/how-to-read-write-arbitrary-bits-in-c-c
 
 #include <stdio.h>
 #include <stdlib.h>
