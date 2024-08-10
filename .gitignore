@@ -19,3 +19,5 @@
 *.dSYM
 
 .DS_Store
+
+main
