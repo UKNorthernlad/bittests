@@ -17,3 +17,5 @@
 *.vsix
 
 *.dSYM
+
+.DS_Store
